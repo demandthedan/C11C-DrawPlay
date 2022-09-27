@@ -1,2 +1,7 @@
-/Cat.class
-/MyDrawing.class
+*.class
+.project
+.classpath
+.settings/
+.metadata
+/bin/
+/.gitignore
