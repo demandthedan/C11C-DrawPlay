@@ -1,0 +1,48 @@
+commit 4b1dc9346b17a3ca985cf2d4b4fa39fb146eb852
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 13:42:28 2022 -0600
+
+    Morphed the kitty into an emoji.
+
+commit 9486cb8f429541f24a16077996bce8dc52a06aa7
+Author: nwoo22 <nwoo@mines.edu>
+Date:   Tue Sep 27 13:37:57 2022 -0600
+
+    Made the eyes huge. Cat got scared
+
+commit 8ae65bd15d4bd970ef1ebe8174f3aff1097d511c
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 13:37:02 2022 -0600
+
+    Made the window size bigger.
+
+commit 59c8444e4454af813a14bdfa19f7165808e5e121
+Author: nwoo22 <nwoo@mines.edu>
+Date:   Tue Sep 27 13:33:36 2022 -0600
+
+    Increased cat head size further
+
+commit 96424c0f023e4674069c298f75ee26135bf567a6
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 13:31:38 2022 -0600
+
+    Changed kitty's head size and mouth color.
+
+commit 9f05937d36417479c1c9e54199189e9678bf5d3a
+Author: Nathan Woo <nwoo@mines.edu>
+Date:   Tue Sep 27 13:19:16 2022 -0600
+
+    Partner pushed and I pulled from them. Changed the mouth color from pink
+    to yellow
+
+commit 4b8cab320dd48e7fab5da09148aebf6fe6bd7d82
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 13:14:34 2022 -0600
+
+    Added local repository and remote repository
+
+commit 0994e53689c4b8da0812207b0726ab8c8db5754b
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 11:47:27 2022 -0600
+
+    Made local repository for github practice.
