@@ -1,3 +1,9 @@
+commit 5b36f41ce41e9430953b8cde0b44bdfd72ee90df
+Author: Dan Holt <holt@mines.edu>
+Date:   Tue Sep 27 14:11:56 2022 -0600
+
+    This work was completed equitably by Daniel Holt and Nathan Woo
+
 commit 4b1dc9346b17a3ca985cf2d4b4fa39fb146eb852
 Author: Dan Holt <holt@mines.edu>
 Date:   Tue Sep 27 13:42:28 2022 -0600
